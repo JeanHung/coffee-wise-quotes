@@ -1,0 +1,62 @@
+.third{
+background-color: #D5ECC2;
+border-radius: 50%;
+}
+
+.second {
+    background-color: #FFD3B4;
+    border-radius: 50%;
+}
+
+.first{
+
+    background-color: #F8DF8B;
+    border-radius: 50%;
+}
+
+.fourth {
+    background-color: #B5DEFF;
+    border-radius: 50%;
+}
+
+h1 {
+color:cornsilk;
+font-family: Monaco;
+position: relative;
+left:10%;
+}
+
+table {
+    position: relative;
+    left:20%;
+}
+
+body{
+background-color:#1597BB ;
+
+}
+
+img:hover {
+background-color: #0CECDD;
+
+}
+
+.message{
+ background-color: #f2f5cd;
+border-top: double;
+border-bottom: double;
+border-width: 30px;
+border-color: #FFBC97;
+}
+.word{
+font-family: Papyrus;
+font-size: 45px;
+color:chocolate;
+}
+
+.author {
+    font-family: Papyrus;
+    font-size: 30px;
+    color:chocolate;
+
+}
