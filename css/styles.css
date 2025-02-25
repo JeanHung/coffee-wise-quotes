@@ -1,22 +1,26 @@
 .third{
 background-color: #D5ECC2;
 border-radius: 5%;
+max-width: 7%;
 }
 
 .second {
     background-color: #FFD3B4;
     border-radius: 5%;
+    max-width: 7%;
 }
 
 .first{
 
     background-color: #F8DF8B;
     border-radius: 5%;
+    max-width: 7%;
 }
 
 .fourth {
     background-color: #B5DEFF;
     border-radius: 5%;
+    max-width: 7%;
 }
 
 h1 {
